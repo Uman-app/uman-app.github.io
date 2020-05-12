@@ -9,38 +9,39 @@ description: "An App for your help, in time of trouble. Uman for All Humans in N
 
 # Team names, titles and social links
 people:
+
 - name: Nakul Agrawal
   pic: 1
-  # position: 
-  # social:
-    # - title: twitter
-      # url: #
-    # - title: facebook
-      # url: #
-    # - title: stack-overflow
-      # url: #
+  position: President @ Renovatio India
+  social:
+    - title: twitter
+      url: https://twitter.com/livingnakul/
+    - title: facebook
+      url: https://www.facebook.com/rhythm.of.nakul/
+    - title: linkedin
+      url: https://www.linkedin.com/in/livingnakul/
 
 - name: Shantanu Vishwanadha
   pic: 2
-  # position: Lead Marketer
-  # social:
-  #   - title: twitter
-  #     url: #
-  #   - title: facebook
-  #     url: #
-  #   - title: linkedin
-  #     url: #
+  position: Co-Founder @ ProCohat
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/thecoderpanda/
 
 - name: Rajat Bhanarkar
   pic: 3
-  # position: Lead Developer
-  # social:
-  #   - title: twitter
-  #     url: #
-  #   - title: facebook
-  #     url: #
-  #   - title: google-plus
-  #     url: #
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 - name: Abhilash Karnale
   pic: 3
 
@@ -48,7 +49,8 @@ people:
   pic: 3
 
 - name: Anmoldeep Singh Arora
-  pic: 3
+  pic: 6
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:
 #   - title: twitter
