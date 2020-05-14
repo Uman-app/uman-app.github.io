@@ -1,11 +1,11 @@
 ---
-title: Profile Section
+title: Profiles
 subtitle: Website Design
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: profile.png
-thumbnail: escape-thumbnail.png
+img: profile.jpg
+thumbnail: profile-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
