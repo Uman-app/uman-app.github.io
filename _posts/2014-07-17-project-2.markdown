@@ -1,10 +1,10 @@
 ---
-title: Escape
+title: Profile Section
 subtitle: Website Design
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
+img: profile.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: April 2014
