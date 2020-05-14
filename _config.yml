@@ -29,8 +29,8 @@ people:
   social:
     - title: twitter
       url: https://www.twitter.com/thecoderpanda/
-    - title: facebook
-      url: https://www.facebook.com/shantanu.vishwanadha/nk
+    - title: github
+      url: https://github.com/thecoderpanda/
     - title: linkedin
       url: https://www.linkedin.com/in/thecoderpanda/
     - title: instagram
@@ -41,9 +41,9 @@ people:
   position: Lead Developer
   social:
     - title: twitter
-      url: https://twitter.com/irajatbhanarkar
-    - title: facebook
-      url: https://www.facebook.com/rajat.bhanarkar/
+      url: https://twitter.com/irajatbhanarkar/
+    - title: github
+      url: https://github.com/rajatbhanarkar/
     - title: linkedin
       url: https://www.linkedin.com/in/rajat-bhanarkar-11a859176/
     - title: instagram
@@ -62,14 +62,15 @@ people:
     - title: instagram
       url: https://www.instagram.com/avalon_ak24/
 
+
 - name: Ansh Dhomne
   pic: 5
   position: Web Developer 
   social:
-    # - title: twitter
-      # url: https://www.twitter.com/AnmolSingh1509/
     - title: facebook
       url: https://www.facebook.com/anshdhomne.1
+    - title: github
+      url: https://github.com/AnshDhomne/
     - title: linkedin
       url: https://www.linkedin.com/in/ansh-dhomne/
     - title: instagram
@@ -81,8 +82,8 @@ people:
   social:
     - title: twitter
       url: https://www.twitter.com/AnmolSingh1509/
-    - title: facebook
-      url: https://www.facebook.com/Anmoldeep1509/
+    - title: github
+      url: https://github.com/Anmoldeep1509/
     - title: linkedin
       url: https://www.linkedin.com/in/anmoldeep1509/
     - title: instagram
